@@ -1,9 +1,9 @@
 [
   {
     "name": "AboveFire Fakemons",
-    "path": "packages/abovefire_fakemons.fkmn",
+    "path": "packages/above_fakemon.fkmn",
     "author": "AboveFire",
     "description": "Fakemons for mini-campaign.",
-    "version": 1
+    "version": 2
   }
 ]
